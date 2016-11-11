@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://rss.allocine.fr/~d/styles/itemcontent.css"?><rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+  <channel>
+    <title>AlloCiné : Bandes-annonces</title>
+    <link>http://www.allocine.fr</link>
+    
+    <description>Allociné rss feed</description>
+    <language>fr-FR</language>
+    <copyright>Copyright 2016 AlloCiné</copyright>
+    <lastBuildDate>Fri, 02 Sep 2016 03:22:44 GMT</lastBuildDate>
+    <pubDate>Fri, 02 Sep 2016 03:22:44 GMT</pubDate>
+    <opensearch:totalResults>220</opensearch:totalResults>
+    <ttl>60</ttl>
+    <generator>AC-API</generator>
+    <image>
+      <title>AlloCiné : Bandes-annonces</title>
+      <link>http://www.allocine.fr</link>
+      <url>http://images.allocine.fr/commons/logos/rss/allocine.png</url>
+    </image>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://rss.allocine.fr/ac/bandesannonces/anepasmanquer" /><feedburner:info uri="ac/bandesannonces/anepasmanquer" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" />
+	<item>
+      <title>Rings Bande-annonce VO</title>
+      <link>http://rss.allocine.fr/~r/ac/bandesannonces/anepasmanquer/~3/Q1LtoBO9l4o/player_gen_cmedia=19564620&amp;cfilm=172648.html</link>
+      <guid isPermaLink="false">http://www.allocine.fr/video/player_gen_cmedia=19564620&amp;cfilm=172648.html</guid>
+      <description>&lt;span&gt;Une jeune femme s’inquiète pour son petit ami lorsqu’ il commence à s’intéresser aux mystères entourant une vidéo censée tuer celui qui la regarde 7 jours après l’avoir visionnée. Elle se sacrifie pour sauver son petit ami et fait alors une terrifiante découverte : il y a « un film dans le film » que personne n’avait encore vu…&lt;/span&gt;&lt;p&gt;&lt;img src="http://fr.web.img4.acsta.net/c_200_200/videothumbnails/16/08/24/10/19/586107.jpg"/&gt;&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;&lt;img src="http://feeds.feedburner.com/~r/ac/bandesannonces/anepasmanquer/~4/Q1LtoBO9l4o" height="1" width="1" alt=""/&gt;</description>
+      <pubDate>Thu, 01 Sep 2016 22:00:00 GMT</pubDate>
+      <category>Bande-annonce</category>
+      <media:thumbnail url="http://fr.web.img6.acsta.net/videothumbnails/16/08/24/10/19/586107.jpg" />
+    <feedburner:origLink>http://www.allocine.fr/video/player_gen_cmedia=19564620&amp;cfilm=172648.html</feedburner:origLink></item>
+    <item>
+      <title>Voir du Pays Bande-annonce VF</title>
+      <link>http://rss.allocine.fr/~r/ac/bandesannonces/anepasmanquer/~3/1vOGfU5OupI/player_gen_cmedia=19563905&amp;cfilm=230079.html</link>
+      <guid isPermaLink="false">http://www.allocine.fr/video/player_gen_cmedia=19563905&amp;cfilm=230079.html</guid>
+      <description>&lt;strong&gt;&lt;/strong&gt;Deux jeunes militaires, Aurore et Marine, reviennent d’Afghanistan. Avec leur section, elles vont passer trois jours à Chypre, dans un hôtel cinq étoiles, au milieu des touristes en vacances, pour ce que l’armée appelle un sas de décompression, où on va les aider à « oublier la guerre ». Mais on ne se libère pas de la violence si facilement…&lt;p&gt;&lt;img src="http://fr.web.img5.acsta.net/c_200_200/videothumbnails/16/07/07/17/51/351343.jpg"/&gt;&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;&lt;img src="http://feeds.feedburner.com/~r/ac/bandesannonces/anepasmanquer/~4/1vOGfU5OupI" height="1" width="1" alt=""/&gt;</description>
+      <pubDate>Thu, 01 Sep 2016 22:00:00 GMT</pubDate>
+      <category>Bande-annonce</category>
+      <media:thumbnail url="http://fr.web.img1.acsta.net/videothumbnails/16/07/07/17/51/351343.jpg" />
+    <feedburner:origLink>http://www.allocine.fr/video/player_gen_cmedia=19563905&amp;cfilm=230079.html</feedburner:origLink></item>
+    <item>
+      <title>Divines Bande-annonce VF</title>
+      <link>http://rss.allocine.fr/~r/ac/bandesannonces/anepasmanquer/~3/1IYB36GdRz0/player_gen_cmedia=19563873&amp;cfilm=244069.html</link>
+      <guid isPermaLink="false">http://www.allocine.fr/video/player_gen_cmedia=19563873&amp;cfilm=244069.html</guid>
+      <description>Dans un ghetto où se côtoient trafics et religion, Dounia a soif de pouvoir et de réussite. Soutenue par Maimouna, sa meilleure amie, elle décide de suivre les traces de Rebecca, une dealeuse respectée. Sa rencontre avec Djigui, un jeune danseur troublant de sensualité, va bouleverser son quotidien.&lt;p&gt;&lt;img src="http://fr.web.img3.acsta.net/c_200_200/videothumbnails/16/07/06/15/12/364307.jpg"/&gt;&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;&lt;img src="http://feeds.feedburner.com/~r/ac/bandesannonces/anepasmanquer/~4/1IYB36GdRz0" height="1" width="1" alt=""/&gt;</description>
+      <pubDate>Thu, 01 Sep 2016 22:00:00 GMT</pubDate>
+      <category>Bande-annonce</category>
+      <media:thumbnail url="http://fr.web.img5.acsta.net/videothumbnails/16/07/06/15/12/364307.jpg" />
+    <feedburner:origLink>http://www.allocine.fr/video/player_gen_cmedia=19563873&amp;cfilm=244069.html</feedburner:origLink></item>
+    <item>
+      <title>Planétarium Bande-annonce VF</title>
+      <link>http://rss.allocine.fr/~r/ac/bandesannonces/anepasmanquer/~3/edQgMkbEj9Y/player_gen_cmedia=19564640&amp;cfilm=237830.html</link>
+      <guid isPermaLink="false">http://www.allocine.fr/video/player_gen_cmedia=19564640&amp;cfilm=237830.html</guid>
+      <description>&lt;span&gt;&lt;span&gt;Paris, fin des années 30.&amp;#160;&lt;/span&gt;&lt;span&gt;Kate et Laura Barlow, deux jeunes mediums américaines, finissent leur tournée mondiale.&amp;#160;&lt;/span&gt;&lt;span&gt;Fasciné par leur don, un célèbre producteur de cinéma, André Korben, les engage pour tourner dans un film follement ambitieux.&amp;#160;&lt;/span&gt;&lt;span&gt;Prise dans le tourbillon du cinéma, des expérimentations et des sentiments, cette nouvelle famille ne voit pas ce que l'Europe s'apprête à vivre.&lt;/span&gt;&lt;/span&gt;&lt;p&gt;&lt;img src="http://fr.web.img5.acsta.net/c_200_200/videothumbnails/16/08/25/14/19/519905.jpg"/&gt;&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;&lt;img src="http://feeds.feedburner.com/~r/ac/bandesannonces/anepasmanquer/~4/edQgMkbEj9Y" height="1" width="1" alt=""/&gt;</description>
+      <pubDate>Thu, 01 Sep 2016 22:00:00 GMT</pubDate>
+      <category>Bande-annonce</category>
+      <media:thumbnail url="http://fr.web.img1.acsta.net/videothumbnails/16/08/25/14/19/519905.jpg" />
+    <feedburner:origLink>http://www.allocine.fr/video/player_gen_cmedia=19564640&amp;cfilm=237830.html</feedburner:origLink></item>
+    <item>
+      <title>Kubo et l'armure magique Bande-annonce (4) VF</title>
+      <link>http://rss.allocine.fr/~r/ac/bandesannonces/anepasmanquer/~3/ja4PtpbFhmM/player_gen_cmedia=19564407&amp;cfilm=234291.html</link>
+      <guid isPermaLink="false">http://www.allocine.fr/video/player_gen_cmedia=19564407&amp;cfilm=234291.html</guid>
+      <description>&lt;span&gt;Kubo&lt;/span&gt;&lt;span&gt;&amp;#160;est un être aussi intelligent que généreux, qui gagne chichement sa vie en sa qualité de conteur, dans un village de bord de mer. Cette petite vie tranquille, ainsi que celle de ses compagnons Hosato, Hashi et Kamekichi va être bouleversée quand par erreur il invoque un démon du passé.&amp;#160;&lt;/span&gt;&lt;p&gt;&lt;img src="http://fr.web.img5.acsta.net/c_200_200/videothumbnails/16/08/03/17/43/340257.jpg"/&gt;&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;&lt;img src="http://feeds.feedburner.com/~r/ac/bandesannonces/anepasmanquer/~4/ja4PtpbFhmM" height="1" width="1" alt=""/&gt;</description>
+      <pubDate>Thu, 01 Sep 2016 22:00:00 GMT</pubDate>
+      <category>Bande-annonce</category>
+      <media:thumbnail url="http://fr.web.img1.acsta.net/videothumbnails/16/08/03/17/43/340257.jpg" />
+    <feedburner:origLink>http://www.allocine.fr/video/player_gen_cmedia=19564407&amp;cfilm=234291.html</feedburner:origLink></item>
+    <item>
+      <title>La Belle et la Bête Bande-annonce VO</title>
+      <link>http://rss.allocine.fr/~r/ac/bandesannonces/anepasmanquer/~3/Djmigr2LTHk/player_gen_cmedia=19563047&amp;cfilm=228322.html</link>
+      <guid isPermaLink="false">http://www.allocine.fr/video/player_gen_cmedia=19563047&amp;cfilm=228322.html</guid>
+      <description>Une nouvelle adaptation live du conte "La Belle et la Bête".&lt;p&gt;&lt;img src="http://fr.web.img6.acsta.net/c_200_200/videothumbnails/16/05/23/15/06/021311.jpg"/&gt;&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;&lt;img src="http://feeds.feedburner.com/~r/ac/bandesannonces/anepasmanquer/~4/Djmigr2LTHk" height="1" width="1" alt=""/&gt;</description>
+      <pubDate>Thu, 01 Sep 2016 22:00:00 GMT</pubDate>
+      <category>Bande-annonce</category>
+      <media:thumbnail url="http://fr.web.img2.acsta.net/videothumbnails/16/05/23/15/06/021311.jpg" />
+    <feedburner:origLink>http://www.allocine.fr/video/player_gen_cmedia=19563047&amp;cfilm=228322.html</feedburner:origLink></item>
+    <item>
+      <title>Cézanne et moi Bande-annonce VF</title>
+      <link>http://rss.allocine.fr/~r/ac/bandesannonces/anepasmanquer/~3/a3aDyp5qgdQ/player_gen_cmedia=19564607&amp;cfilm=233662.html</link>
+      <guid isPermaLink="false">http://www.allocine.fr/video/player_gen_cmedia=19564607&amp;cfilm=233662.html</guid>
+      <description>&lt;span&gt;Ils s’aimaient comme on aime à treize ans : révoltes, curiosité, espoirs, doutes, filles, rêves de gloires, ils partageaient tout. Paul est riche. Emile est pauvre. Ils quittent Aix, « montent » à Paris, pénètrent dans l’intimité de ceux de Montmartre et des Batignolles.&amp;#160;&lt;/span&gt;&lt;p&gt;&lt;img src="http://fr.web.img6.acsta.net/c_200_200/videothumbnails/16/08/23/15/21/462011.jpg"/&gt;&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;&lt;img src="http://feeds.feedburner.com/~r/ac/bandesannonces/anepasmanquer/~4/a3aDyp5qgdQ" height="1" width="1" alt=""/&gt;</description>
+      <pubDate>Thu, 01 Sep 2016 22:00:00 GMT</pubDate>
+      <category>Bande-annonce</category>
+      <media:thumbnail url="http://fr.web.img2.acsta.net/videothumbnails/16/08/23/15/21/462011.jpg" />
+    <feedburner:origLink>http://www.allocine.fr/video/player_gen_cmedia=19564607&amp;cfilm=233662.html</feedburner:origLink></item>
+    <item>
+      <title>Les 7 Mercenaires (The Magnificent Seven) Bande-annonce VO</title>
+      <link>http://rss.allocine.fr/~r/ac/bandesannonces/anepasmanquer/~3/-2GSogq5464/player_gen_cmedia=19564036&amp;cfilm=207874.html</link>
+      <guid isPermaLink="false">http://www.allocine.fr/video/player_gen_cmedia=19564036&amp;cfilm=207874.html</guid>
+      <description>L’industriel Bartholomew Bogue règne en maître sur la petite ville de Rose Creek. Pour mettre fin au despotisme de l’homme d’affaires, les habitants, désespérés, engagent sept hors-la-loi, chasseurs de primes, joueurs et tueurs à gages.&lt;p&gt;&lt;img src="http://fr.web.img2.acsta.net/c_200_200/videothumbnails/16/07/18/15/49/122190.jpg"/&gt;&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;&lt;img src="http://feeds.feedburner.com/~r/ac/bandesannonces/anepasmanquer/~4/-2GSogq5464" height="1" width="1" alt=""/&gt;</description>
+      <pubDate>Thu, 01 Sep 2016 22:00:00 GMT</pubDate>
+      <category>Bande-annonce</category>
+      <media:thumbnail url="http://fr.web.img4.acsta.net/videothumbnails/16/07/18/15/49/122190.jpg" />
+    <feedburner:origLink>http://www.allocine.fr/video/player_gen_cmedia=19564036&amp;cfilm=207874.html</feedburner:origLink></item>
+    <item>
+      <title>Victoria Bande-annonce VF</title>
+      <link>http://rss.allocine.fr/~r/ac/bandesannonces/anepasmanquer/~3/utIxMrqabME/player_gen_cmedia=19564269&amp;cfilm=239116.html</link>
+      <guid isPermaLink="false">http://www.allocine.fr/video/player_gen_cmedia=19564269&amp;cfilm=239116.html</guid>
+      <description>&lt;strong&gt;&lt;/strong&gt;Victoria Spick, avocate pénaliste en plein néant sentimental, débarque à un mariage où elle y retrouve son ami Vincent&amp;#160;et Sam, un ex-dealer qu’elle a sorti d’affaire. Le lendemain, Vincent est accusé de tentative de meurtre par sa compagne. Le début d’une série de cataclysmes pour Victoria.&lt;p&gt;&lt;img src="http://fr.web.img6.acsta.net/c_200_200/videothumbnails/16/07/27/11/41/544141.jpg"/&gt;&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;&lt;img src="http://feeds.feedburner.com/~r/ac/bandesannonces/anepasmanquer/~4/utIxMrqabME" height="1" width="1" alt=""/&gt;</description>
+      <pubDate>Thu, 01 Sep 2016 22:00:00 GMT</pubDate>
+      <category>Bande-annonce</category>
+      <media:thumbnail url="http://fr.web.img2.acsta.net/videothumbnails/16/07/27/11/41/544141.jpg" />
+    <feedburner:origLink>http://www.allocine.fr/video/player_gen_cmedia=19564269&amp;cfilm=239116.html</feedburner:origLink></item>
+    <item>
+      <title>Eternité Bande-annonce VF</title>
+      <link>http://rss.allocine.fr/~r/ac/bandesannonces/anepasmanquer/~3/ZvzCy-PAr4I/player_gen_cmedia=19563467&amp;cfilm=227327.html</link>
+      <guid isPermaLink="false">http://www.allocine.fr/video/player_gen_cmedia=19563467&amp;cfilm=227327.html</guid>
+      <description>Des hommes et des femmes se rencontrent, s’aiment, s’étreignent durant un siècle, accomplissant ainsi les destinées amoureuses et établissant une généalogie… Une éternité…&lt;p&gt;&lt;img src="http://fr.web.img6.acsta.net/c_200_200/videothumbnails/16/07/21/11/06/464187.jpg"/&gt;&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;&lt;img src="http://feeds.feedburner.com/~r/ac/bandesannonces/anepasmanquer/~4/ZvzCy-PAr4I" height="1" width="1" alt=""/&gt;</description>
+      <pubDate>Thu, 01 Sep 2016 22:00:00 GMT</pubDate>
+      <category>Bande-annonce</category>
+      <media:thumbnail url="http://fr.web.img2.acsta.net/videothumbnails/16/07/21/11/06/464187.jpg" />
+    <feedburner:origLink>http://www.allocine.fr/video/player_gen_cmedia=19563467&amp;cfilm=227327.html</feedburner:origLink></item>
+    <item>
+      <title>L'Histoire de l'Amour Bande-annonce VO</title>
+      <link>http://rss.allocine.fr/~r/ac/bandesannonces/anepasmanquer/~3/jHloZPRc5a8/player_gen_cmedia=19564141&amp;cfilm=241135.html</link>
+      <guid isPermaLink="false">http://www.allocine.fr/video/player_gen_cmedia=19564141&amp;cfilm=241135.html</guid>
+      <description>&lt;span&gt;New York, de nos jours, Léo, un vieux juif polonais immigré, espiègle et drôle, vit dans le souvenir de « la femme la plus aimée au monde », le grand amour de sa vie. A l’autre bout de la ville, Alma, dans la fougue d’une adolescence pleine de passion, découvre l’amour pour la première fois.&amp;#160;&lt;/span&gt;&lt;p&gt;&lt;img src="http://fr.web.img2.acsta.net/c_200_200/videothumbnails/16/07/22/11/03/005872.jpg"/&gt;&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;&lt;img src="http://feeds.feedburner.com/~r/ac/bandesannonces/anepasmanquer/~4/jHloZPRc5a8" height="1" width="1" alt=""/&gt;</description>
+      <pubDate>Thu, 01 Sep 2016 22:00:00 GMT</pubDate>
+      <category>Bande-annonce</category>
+      <media:thumbnail url="http://fr.web.img4.acsta.net/videothumbnails/16/07/22/11/03/005872.jpg" />
+    <feedburner:origLink>http://www.allocine.fr/video/player_gen_cmedia=19564141&amp;cfilm=241135.html</feedburner:origLink></item>
+    <item>
+      <title>War Dogs Bande-annonce VO</title>
+      <link>http://rss.allocine.fr/~r/ac/bandesannonces/anepasmanquer/~3/uwKan5iMkkU/player_gen_cmedia=19561706&amp;cfilm=196253.html</link>
+      <guid isPermaLink="false">http://www.allocine.fr/video/player_gen_cmedia=19561706&amp;cfilm=196253.html</guid>
+      <description>Deux copains âgés d'une vingtaine d'années vivant à Miami Beach à l'époque de la guerre en Irak, profitent d'un dispositif méconnu du gouvernement fédéral, permettant à de petites entreprises de répondre à des appels d'offres de l'armée américaine. Si leurs débuts sont modestes, ils ne tardent pas à empocher de grosses sommes d'argent et à mener la grande vie.&lt;p&gt;&lt;img src="http://fr.web.img3.acsta.net/c_200_200/videothumbnails/16/06/20/11/42/558911.jpg"/&gt;&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;&lt;img src="http://feeds.feedburner.com/~r/ac/bandesannonces/anepasmanquer/~4/uwKan5iMkkU" height="1" width="1" alt=""/&gt;</description>
+      <pubDate>Thu, 01 Sep 2016 22:00:00 GMT</pubDate>
+      <category>Bande-annonce</category>
+      <media:thumbnail url="http://fr.web.img5.acsta.net/videothumbnails/16/06/20/11/42/558911.jpg" />
+    <feedburner:origLink>http://www.allocine.fr/video/player_gen_cmedia=19561706&amp;cfilm=196253.html</feedburner:origLink></item>
+    <item>
+      <title>Jeunesse Bande-annonce VF</title>
+      <link>http://rss.allocine.fr/~r/ac/bandesannonces/anepasmanquer/~3/qxu3RF1f4z4/player_gen_cmedia=19563954&amp;cfilm=245828.html</link>
+      <guid isPermaLink="false">http://www.allocine.fr/video/player_gen_cmedia=19563954&amp;cfilm=245828.html</guid>
+      <description>&lt;p&gt;&lt;img src="http://fr.web.img5.acsta.net/c_200_200/videothumbnails/16/07/11/16/29/594956.jpg"/&gt;&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;&lt;img src="http://feeds.feedburner.com/~r/ac/bandesannonces/anepasmanquer/~4/qxu3RF1f4z4" height="1" width="1" alt=""/&gt;</description>
+      <pubDate>Thu, 01 Sep 2016 22:00:00 GMT</pubDate>
+      <category>Bande-annonce</category>
+      <media:thumbnail url="http://fr.web.img1.acsta.net/videothumbnails/16/07/11/16/29/594956.jpg" />
+    <feedburner:origLink>http://www.allocine.fr/video/player_gen_cmedia=19563954&amp;cfilm=245828.html</feedburner:origLink></item>
+    <item>
+      <title>Ivan Tsarevitch et la princesse changeante Bande-annonce VF</title>
+      <link>http://rss.allocine.fr/~r/ac/bandesannonces/anepasmanquer/~3/g0R6GseutFA/player_gen_cmedia=19564652&amp;cfilm=248441.html</link>
+      <guid isPermaLink="false">http://www.allocine.fr/video/player_gen_cmedia=19564652&amp;cfilm=248441.html</guid>
+      <description>Tous les soirs, une fille, un garçon et un vieux projectionniste se retrouvent dans un cinéma qui semble abandonné, mais plein de merveilles. Les trois amis inventent, dessinent, se déguisent et s’imaginent les héros de contes merveilleux. Des profondeurs de la terre, aux confins de l'orient, ils rivalisent d'imagination pour incarner princesses et aventuriers : « La Maitresse des Monstres», « L’Ecolier-Sorcier », « Le Mousse et sa Chatte » et « Ivan Tsarévitch et la Princesse Changeante ».&lt;p&gt;&lt;img src="http://fr.web.img5.acsta.net/c_200_200/videothumbnails/16/08/26/17/01/287164.jpg"/&gt;&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;&lt;img src="http://feeds.feedburner.com/~r/ac/bandesannonces/anepasmanquer/~4/g0R6GseutFA" height="1" width="1" alt=""/&gt;</description>
+      <pubDate>Thu, 01 Sep 2016 22:00:00 GMT</pubDate>
+      <category>Bande-annonce</category>
+      <media:thumbnail url="http://fr.web.img1.acsta.net/videothumbnails/16/08/26/17/01/287164.jpg" />
+    <feedburner:origLink>http://www.allocine.fr/video/player_gen_cmedia=19564652&amp;cfilm=248441.html</feedburner:origLink></item>
+    <item>
+      <title>Ben-Hur Bande-annonce (2) VO</title>
+      <link>http://rss.allocine.fr/~r/ac/bandesannonces/anepasmanquer/~3/_jFOOvSUVKU/player_gen_cmedia=19564208&amp;cfilm=217537.html</link>
+      <guid isPermaLink="false">http://www.allocine.fr/video/player_gen_cmedia=19564208&amp;cfilm=217537.html</guid>
+      <description>Ben-Hur retrace l’histoire épique de Judah Ben-Hur, un prince accusé à tort de trahison par Messala, son frère adoptif, officier de l’armée romaine. Déchu de son titre, séparé de sa famille et de la femme qu’il aime, Judah est réduit à l’esclavage. Après des années en mer, Judah revient sur sa terre natale dans le but de se venger. Il va y rencontrer son destin.&lt;p&gt;&lt;img src="http://fr.web.img3.acsta.net/c_200_200/videothumbnails/16/07/25/18/10/558315.jpg"/&gt;&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;&lt;img src="http://feeds.feedburner.com/~r/ac/bandesannonces/anepasmanquer/~4/_jFOOvSUVKU" height="1" width="1" alt=""/&gt;</description>
+      <pubDate>Thu, 01 Sep 2016 22:00:00 GMT</pubDate>
+      <category>Bande-annonce</category>
+      <media:thumbnail url="http://fr.web.img5.acsta.net/videothumbnails/16/07/25/18/10/558315.jpg" />
+    <feedburner:origLink>http://www.allocine.fr/video/player_gen_cmedia=19564208&amp;cfilm=217537.html</feedburner:origLink></item>
+    <item>
+      <title>Radin! Bande-annonce VF</title>
+      <link>http://rss.allocine.fr/~r/ac/bandesannonces/anepasmanquer/~3/aUOvbetcJpg/player_gen_cmedia=19563726&amp;cfilm=243329.html</link>
+      <guid isPermaLink="false">http://www.allocine.fr/video/player_gen_cmedia=19563726&amp;cfilm=243329.html</guid>
+      <description>&lt;span&gt;&lt;span&gt;&lt;span&gt;François Gautier est radin ! Economiser le met en joie, payer lui provoque des suées. Sa vie est réglée dans l’unique but de ne jamais rien dépenser. Une vie qui va basculer en une seule journée : il tombe amoureux et découvre qu’il a une fille dont il ignorait l’existence.&amp;#160;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;p&gt;&lt;img src="http://fr.web.img1.acsta.net/c_200_200/videothumbnails/16/06/27/13/33/285078.jpg"/&gt;&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;&lt;img src="http://feeds.feedburner.com/~r/ac/bandesannonces/anepasmanquer/~4/aUOvbetcJpg" height="1" width="1" alt=""/&gt;</description>
+      <pubDate>Thu, 01 Sep 2016 22:00:00 GMT</pubDate>
+      <category>Bande-annonce</category>
+      <media:thumbnail url="http://fr.web.img3.acsta.net/videothumbnails/16/06/27/13/33/285078.jpg" />
+    <feedburner:origLink>http://www.allocine.fr/video/player_gen_cmedia=19563726&amp;cfilm=243329.html</feedburner:origLink></item>
+    <item>
+      <title>Brooklyn Village Bande-annonce VO</title>
+      <link>http://rss.allocine.fr/~r/ac/bandesannonces/anepasmanquer/~3/rcQNfJbHqpo/player_gen_cmedia=19564577&amp;cfilm=239514.html</link>
+      <guid isPermaLink="false">http://www.allocine.fr/video/player_gen_cmedia=19564577&amp;cfilm=239514.html</guid>
+      <description>Une famille de Manhattan hérite d'une maison à Brooklyn, dont le rez-de-chaussée est occupé par la boutique de Leonor, une couturière latino-américaine.&amp;#160;Les relations sont d'abord très cordiales, notamment grâce à l'insouciante amitié qui se noue entre Tony&amp;#160;et Jake, les enfants des deux foyers. Mais le loyer de la boutique s'avère bien inférieur aux besoins des&amp;#160;nouveaux arrivants.&amp;#160;Les&amp;#160;discussions d’adultes vont bientôt perturber la complicité entre voisins.&lt;p&gt;&lt;img src="http://fr.web.img3.acsta.net/c_200_200/videothumbnails/16/08/19/16/55/478993.jpg"/&gt;&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;&lt;img src="http://feeds.feedburner.com/~r/ac/bandesannonces/anepasmanquer/~4/rcQNfJbHqpo" height="1" width="1" alt=""/&gt;</description>
+      <pubDate>Thu, 01 Sep 2016 22:00:00 GMT</pubDate>
+      <category>Bande-annonce</category>
+      <media:thumbnail url="http://fr.web.img5.acsta.net/videothumbnails/16/08/19/16/55/478993.jpg" />
+    <feedburner:origLink>http://www.allocine.fr/video/player_gen_cmedia=19564577&amp;cfilm=239514.html</feedburner:origLink></item>
+    <item>
+      <title>Clash Bande-annonce VO</title>
+      <link>http://rss.allocine.fr/~r/ac/bandesannonces/anepasmanquer/~3/ci2gkx7y634/player_gen_cmedia=19564091&amp;cfilm=236466.html</link>
+      <guid isPermaLink="false">http://www.allocine.fr/video/player_gen_cmedia=19564091&amp;cfilm=236466.html</guid>
+      <description>&lt;span&gt;Le Caire, été 2013, deux ans après la révolution égyptienne. Au lendemain de la destitution du président islamiste Morsi, un jour de violentes émeutes, des dizaines de manifestants aux convictions politiques et religieuses divergentes sont embarqués dans un fourgon de police. Sauront-ils surmonter leurs différences pour s'en sortir ?&lt;/span&gt;&lt;p&gt;&lt;img src="http://fr.web.img4.acsta.net/c_200_200/videothumbnails/16/07/20/14/41/230961.jpg"/&gt;&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;&lt;img src="http://feeds.feedburner.com/~r/ac/bandesannonces/anepasmanquer/~4/ci2gkx7y634" height="1" width="1" alt=""/&gt;</description>
+      <pubDate>Thu, 01 Sep 2016 22:00:00 GMT</pubDate>
+      <category>Bande-annonce</category>
+      <media:thumbnail url="http://fr.web.img6.acsta.net/videothumbnails/16/07/20/14/41/230961.jpg" />
+    <feedburner:origLink>http://www.allocine.fr/video/player_gen_cmedia=19564091&amp;cfilm=236466.html</feedburner:origLink></item>
+    <item>
+      <title>Aquarius - EXTRAIT VOST "Une contre-proposition"</title>
+      <link>http://rss.allocine.fr/~r/ac/bandesannonces/anepasmanquer/~3/_1pY4lR-xlk/player_gen_cmedia=19562821&amp;cfilm=239210.html</link>
+      <guid isPermaLink="false">http://www.allocine.fr/video/player_gen_cmedia=19562821&amp;cfilm=239210.html</guid>
+      <description>&lt;span&gt;Clara, 65 ans, est critique de musique retraitée. Veuve, elle a trois enfants aujourd'hui adultes et vit dans dans un appartement plein de disques et de livres situé dans l'immeuble "Aquarius". Mais Clara a un talent particulier : elle voyage dans le temps...&lt;/span&gt;&lt;p&gt;&lt;img src="http://fr.web.img4.acsta.net/c_200_200/videothumbnails/16/05/16/11/47/325443.jpg"/&gt;&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;&lt;img src="http://feeds.feedburner.com/~r/ac/bandesannonces/anepasmanquer/~4/_1pY4lR-xlk" height="1" width="1" alt=""/&gt;</description>
+      <pubDate>Thu, 01 Sep 2016 22:00:00 GMT</pubDate>
+      <category>Extrait vidéo</category>
+      <media:thumbnail url="http://fr.web.img6.acsta.net/videothumbnails/16/05/16/11/47/325443.jpg" />
+    <feedburner:origLink>http://www.allocine.fr/video/player_gen_cmedia=19562821&amp;cfilm=239210.html</feedburner:origLink></item>
+    <item>
+      <title>Frantz Bande-annonce VF</title>
+      <link>http://rss.allocine.fr/~r/ac/bandesannonces/anepasmanquer/~3/6TV9PK3lX6c/player_gen_cmedia=19563161&amp;cfilm=240836.html</link>
+      <guid isPermaLink="false">http://www.allocine.fr/video/player_gen_cmedia=19563161&amp;cfilm=240836.html</guid>
+      <description>Au lendemain de la guerre 14-18, dans une petite ville allemande, Anna se rend tous les jours sur la tombe de son fiancé, Frantz, mort sur le front en France.&amp;#160;Mais ce jour-là, un jeune français, Adrien, est venu se recueillir sur la tombe de son ami allemand.&amp;#160;Cette présence à la suite de la défaite allemande va provoquer des réactions passionnelles dans la ville.&lt;p&gt;&lt;img src="http://fr.web.img1.acsta.net/c_200_200/videothumbnails/16/05/31/10/34/547286.jpg"/&gt;&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;&lt;img src="http://feeds.feedburner.com/~r/ac/bandesannonces/anepasmanquer/~4/6TV9PK3lX6c" height="1" width="1" alt=""/&gt;</description>
+      <pubDate>Thu, 01 Sep 2016 22:00:00 GMT</pubDate>
+      <category>Bande-annonce</category>
+      <media:thumbnail url="http://fr.web.img3.acsta.net/videothumbnails/16/05/31/10/34/547286.jpg" />
+    <feedburner:origLink>http://www.allocine.fr/video/player_gen_cmedia=19563161&amp;cfilm=240836.html</feedburner:origLink></item>
+  </channel>
+</rss>
